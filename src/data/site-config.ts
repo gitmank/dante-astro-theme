@@ -77,9 +77,9 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'I\'m an android developer exploring cybersecurity',
-        text: "I'm **Shrivatsa Deshpande**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/ShrivatsaDeshpande'>GitHub</a>.",
+        text: "👋 Hello! I'm a final-year B.Tech Computer Science student with a strong passion for cybersecurity.\n\n🔒 My journey into the world of cybersecurity began with a curiosity about how systems are protected against threats. This curiosity quickly evolved into a commitment to mastering the skills necessary to safeguard digital environments.\n\n💻 I believe in the power of consistent learning and improvement. Each day, I dedicate time to expanding my knowledge through courses and practical experiences. This approach has provided me with a solid foundation in areas such as network security, ethical hacking, and vulnerability assessment.\n\n📚 Throughout my academic career, I have focused on courses and projects that enhance my technical skills and understanding of cybersecurity principles. Engaging in hands-on labs and simulations has allowed me to apply what I've learned in real-world scenarios.\n\n\t🔧 My technical toolkit includes:\n\t\t•⁠  ⁠Programming in Python, Java, and C++\n\t\t•⁠  Cybersecurity tools like Wireshark, Nmap, Metasploit, and Burp Suite\n\t\t•⁠  Understanding of network protocols, encryption, and security frameworks\n\n🌟 I'm interested in roles involving threat analysis, penetration testing, and cybersecurity consulting. I am eager to contribute to teams dedicated to protecting data and ensuring the integrity of systems.",
         image: {
-            src: '/headshot.png',
+            src: '/headshot.webp',
             alt: 'Shrivatsa Deshpande headshot'
         },
         actions: [
